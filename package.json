@@ -1,0 +1,12 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/npc-ti-org/site.git",
+  "author": "cks12 <caiofresneda@gmail.com>",
+  "license": "MIT",
+  "private":true,
+  "workspaces":[
+    "web/**"
+  ]
+}
